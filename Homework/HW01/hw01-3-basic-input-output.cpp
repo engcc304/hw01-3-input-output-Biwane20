@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main() {
     char FirstName[50],LastName[50];
     printf("First Name:");
     scanf("%s",&FirstName);
