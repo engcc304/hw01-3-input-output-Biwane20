@@ -4,7 +4,6 @@
 
 // TODO: #5 Write your private info into Student-Info.txt
 #include <stdio.h>
-
 int main()
 {
     printf("Hello world");
